@@ -1,4 +1,4 @@
-# Git-remoto-exemplo
+﻿# Git-remoto-exemplo
 
 Neste exemplo, duas pessoas irão trabalhar em conjunto.
 
@@ -7,5 +7,6 @@ Neste exemplo, duas pessoas irão trabalhar em conjunto.
   - A pessoa B fará um fetch, um merge, e um push.
   - A pessoa A fará um fetch, um merge, e um push.
 
-## Pessoa A:
+<<<<<<< HEAD
 ## Pessoa B: Kelly  Cadena M
+## Pessoa A: Marta Macufa
